@@ -14,6 +14,6 @@ Matrices文件夹中，可以看Matrices.xcodeproj文件
 （在mac上选择运行mac版，通过虚拟机运行ios会报错）  
   
   05-lighting-fundamentals
-  starter是整体框架（初始化，加载模型等待）
+  starter是整体框架（初始化，加载模型等待）  
   projects是包含各类光照的最终代码  
   看各自文件夹中的Lighting.xcodeproj
